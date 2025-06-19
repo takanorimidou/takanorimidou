@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<img src = https://i.postimg.cc/tJSpvMNN/Camera-1040g3k831itvgt3i0s005n9t6e7lm2q9laph70g.jpg>
 <!--
 **takanorimidou/takanorimidou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
